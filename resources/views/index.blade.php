@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" type="image/png" href="images/favicon.png">
-    <link rel="shortcut icon"  type="image/jpg" href="images/search.png" >
-    <link rel="stylesheet" type="text/css" href="css/main.css"  >
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <link rel="icon" type="image/png" href="public/images/favicon.png">
+    <link rel="shortcut icon"  type="image/jpg" href="public/images/search.png" >
+    <link rel="stylesheet" type="text/css" href="public/css/main.css"  >
+    <link rel="stylesheet" type="text/css" href="public/css/bootstrap.css">
     <meta http-equiv="Content-Type" content="text/html">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -12,8 +12,8 @@
     <meta name="description" content="Welcome to my future Shop!">
     <meta name="theme-color" content="#ffcee3">
 
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="public/js/jquery.js"></script>
+    <script src="public/js/bootstrap.js"></script>
 </head>
 
 <body>
@@ -35,7 +35,7 @@
 
 <div class="header" id="stickMan">
     <div class="topnav">
-        <img src="images/gif.gif" class="logo">
+        <img src="public/images/gif.gif" class="logo">
         <a href="/index">Home</a>
         <a href="/cart">Cart</a>
         <a id="show-login">Login</a>
@@ -418,7 +418,7 @@
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 
 
-<script src="js/main.js"></script>
+<script src="public/js/main.js"></script>
 
 </body>
 

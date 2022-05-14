@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="icon" type="image/png" href="images/favicon.png">
-    <link href="css/main.css" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/png" href="public/images/favicon.png">
+    <link href="public/css/main.css" rel="stylesheet" type="text/css">
     <meta http-equiv="Content-Type" content="text/html">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Chicken Rainbow</title>
     <meta name="description" content="Welcome to my future Shop!">
     <meta name="theme-color" content="#ffcee3">
-    <link rel="shortcut icon" type="image/png" href="images/search.png" >
+    <link rel="shortcut icon" type="image/png" href="public/images/search.png" >
 
 </head>
 
@@ -31,7 +31,7 @@
 
 <div class="header" id="stickMan">
     <div class="topnav">
-        <img src="images/gif.gif" class="logo">
+        <img src="public/images/gif.gif" class="logo">
         <a href="/index">Home</a>
         <a href="/cart">Cart</a>
         <a id="show-login">Login</a>
@@ -258,6 +258,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 
-<script src="js/main.js"></script>
+<script src="public/js/main.js"></script>
 </body>
 </html>
