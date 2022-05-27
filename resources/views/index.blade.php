@@ -11,9 +11,9 @@
     <title>Sempiternal</title>
     <meta name="description" content="Welcome to my future Shop!">
     <meta name="theme-color" content="#ffcee3">
-
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
+
 </head>
 
 <body>
@@ -418,7 +418,7 @@
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
 
 
-<script src="public/js/main.js"></script>
+<script src="js/main.js"></script>
 
 </body>
 
